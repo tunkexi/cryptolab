@@ -1,5 +1,7 @@
 # cryptolab
 
+[![CI](https://github.com/tunkexi/cryptolab/actions/workflows/ci.yml/badge.svg)](https://github.com/tunkexi/cryptolab/actions/workflows/ci.yml)
+
 一个用于学习和实现密码学算法的 C++ 实验项目。
 
 ## 项目目标
