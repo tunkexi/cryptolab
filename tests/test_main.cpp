@@ -1,7 +1,5 @@
-#include "cryptolab/cryptolab.h"
-#include <cassert>
+#include <gtest/gtest.h>
 
-int main() {
-    assert(cryptolab::placeholder() == 0);
-    return 0;
+TEST(LinkSanityTest, OnePlusOneEqualsTwo) {
+    EXPECT_EQ(1 + 1, 2);
 }
